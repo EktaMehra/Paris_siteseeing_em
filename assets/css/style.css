@@ -117,7 +117,6 @@ main {
     width: 100%;
     background: url("../images/to-do-image.jpg") no-repeat center center/cover;
     position: relative;
-    line-height: 0;
 }
 
 #to-do-sections img {
