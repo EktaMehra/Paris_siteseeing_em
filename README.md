@@ -2,7 +2,7 @@
 
 Paris Sightseeing is an immersive online guide designed to help tourists and enthusiasts explore the City of Light. Whether you're planning your first visit or returning for another adventure, this site will provide you with detailed information about must-see landmarks, hidden gems, and cultural experiences in Paris, France. The platform aims to cater to travelers seeking to maximize their Parisian experience by offering insights into the best times to visit attractions, recommended routes, and tips for a memorable journey. Paris Sightseeing is the ultimate companion for anyone looking to discover the enchanting beauty and rich history of Paris.
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](assets/images/readme_images/responsive_paris.PNG)
 
 ## Features 
 
@@ -12,43 +12,43 @@ Paris Sightseeing is an immersive online guide designed to help tourists and ent
 
   - The navigation bar is present on all pages, ensuring easy access to the Home, Gallery, and Contact pages. This feature enhances user experience by providing consistent and straightforward navigation across the site.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](assets/images/readme_images/nav_paris.PNG)
 
 - __Landing Page Image__
 
   - The landing page features a captivating image of Paris with an overlay of introductory text, immediately engaging visitors and setting the tone for their exploration of the city.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](assets/images/readme_images/hero_paris.PNG)
 
 - __Highlights Section__
 
   - This section showcases the top attractions in Paris, including famous landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. It provides brief descriptions and enticing visuals to help users decide which sites to visit.
 
-![Highlights](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Highlights](assets/images/readme_images/thingstodohero_paris.PNG)
 
-- __Tour Itineraries__
+- __Why Choose Us?__
 
-  - Detailed itineraries offer users curated daily plans for exploring Paris, tailored to various interests such as art, history, and food. This helps visitors make the most of their time in the city.
+  - Some details on services offered users curated daily plans for exploring Paris, tailored according to the interests such as art, history, and food. This helps visitors see why they should pick us for as their guide to explore the city.
 
-![Tour Itineraries](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Tour Itineraries](assets/images/readme_images/reasonstb_paris.PNG)
 
 - __The Footer__ 
 
   - The footer includes links to social media platforms where users can follow Paris Sightseeing for updates and additional content. These links open in a new tab for seamless navigation.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](assets/images/readme_images/footer_paris.PNG)
 
 - __Things To-Do__
 
   - Things To-Do provides a collection all the things people can do in Paris, giving users a visual preview of what all to expect and indulge into. It helps in setting the mood and excitement for their visit.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Things to-do](assets/images/readme_images/thingstodo_paris.PNG)
 
 - __Contact Page__
 
   - The contact page allows users to get in touch with the Paris Sightseeing team for inquiries, suggestions, or assistance. It includes a form for users to submit their messages directly.
 
-![Contact](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact](assets/images/readme_images/contactus_paris.PNG)
 
 ### Features Left to Implement
 
