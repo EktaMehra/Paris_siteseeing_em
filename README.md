@@ -4,47 +4,47 @@ Paris Sightseeing is an immersive online guide designed to help tourists and ent
 
 ![Responsive Mockup](assets/images/readme_images/responsive_paris.PNG)
 
-## Features 
+## Features
 
 ### Existing Features
 
-- __Navigation Bar__
+- **Navigation Bar**
 
   - The navigation bar is present on all pages, ensuring easy access to the Home, Gallery, and Contact pages. This feature enhances user experience by providing consistent and straightforward navigation across the site.
 
 ![Nav Bar](assets/images/readme_images/nav_paris.PNG)
 
-- __Landing Page Image__
+- **Landing Page Image**
 
   - The landing page features a captivating image of Paris with an overlay of introductory text, immediately engaging visitors and setting the tone for their exploration of the city.
 
 ![Landing Page](assets/images/readme_images/hero_paris.PNG)
 
-- __Highlights Section__
+- **Highlights Section**
 
   - This section showcases the top attractions in Paris, including famous landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. It provides brief descriptions and enticing visuals to help users decide which sites to visit.
 
 ![Highlights](assets/images/readme_images/thingstodohero_paris.PNG)
 
-- __Why Choose Us?__
+- **Why Choose Us?**
 
   - Some details on services offered users curated daily plans for exploring Paris, tailored according to the interests such as art, history, and food. This helps visitors see why they should pick us for as their guide to explore the city.
 
 ![Tour Itineraries](assets/images/readme_images/reasonstb_paris.PNG)
 
-- __The Footer__ 
+- **The Footer**
 
   - The footer includes links to social media platforms where users can follow Paris Sightseeing for updates and additional content. These links open in a new tab for seamless navigation.
 
 ![Footer](assets/images/readme_images/footer_paris.PNG)
 
-- __Things To-Do__
+- **Things To-Do**
 
   - Things To-Do provides a collection all the things people can do in Paris, giving users a visual preview of what all to expect and indulge into. It helps in setting the mood and excitement for their visit.
 
 ![Things to-do](assets/images/readme_images/thingstodo_paris.PNG)
 
-- __Contact Page__
+- **Contact Page**
 
   - The contact page allows users to get in touch with the Paris Sightseeing team for inquiries, suggestions, or assistance. It includes a form for users to submit their messages directly.
 
@@ -52,24 +52,32 @@ Paris Sightseeing is an immersive online guide designed to help tourists and ent
 
 ### Features Left to Implement
 
-- __Interactive Map__
+- **Interactive Map**
 
   - An interactive map feature will be added to help users plan their routes and find nearby attractions, restaurants, and services.
 
-- __User Reviews and Ratings__
+- **User Reviews and Ratings**
 
   - A section for user reviews and ratings of attractions will be implemented to provide authentic feedback and recommendations from other travelers.
 
-## Testing 
+## Testing
 
 Comprehensive testing has been conducted to ensure that all features of the site work seamlessly and provide an intuitive user experience. The site has been tested on various browsers and screen sizes to guarantee compatibility and responsiveness.
 
-### Validator Testing 
+### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official for index.html [W3C validator](https://validator.w3.org/nu/?doc=https://ektamehra.github.io/Paris_siteseeing_em/index.html)
+  - No errors were returned when passing through the official for to-do.html [W3C validator](https://validator.w3.org/nu/?doc=https://ektamehra.github.io/Paris_siteseeing_em/to-do.html)
+  - No errors were returned when passing through the official for contact.html [W3C validator](https://validator.w3.org/nu/?doc=https://ektamehra.github.io/Paris_siteseeing_em/contact.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https://ektamehra.github.io/Paris_siteseeing_em/assets/css/style.css)
+
+## Accessibility Performance
+
+Here is the accessibility performance result of our webpage:
+
+![Accessibility Performance](assets/images/readme_images/accessibility_paris.PNG)
 
 ### Unfixed Bugs
 
@@ -85,9 +93,9 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 The live link can be found [here](https://ektamehra.github.io/Paris_siteseeing_em/).
 
-## Credits 
+## Credits
 
-### Content 
+### Content
 
 - The text for the Home page was taken from [ChatGPT](https://chatgpt.com/) .
 - Instructions on how to implement form validation on the Contact page were taken from love running project sign-up page.
