@@ -48,7 +48,7 @@ Paris Sightseeing is an immersive online guide designed to help tourists and ent
 
   - The contact page allows users to get in touch with the Paris Sightseeing team for inquiries, suggestions, or assistance. It includes a form for users to submit their messages directly.
 
-![Contact](assets/images/readme_images/contactus_paris.PNG)
+![Contact](assets/images/readme_images/contactpage_paris.PNG)
 
 ### Features Left to Implement
 
